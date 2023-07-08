@@ -5,6 +5,7 @@ ImportHash.ps1 (in progress):
 Creates a hash based on imported library names, see https://www.mandiant.com/resources/blog/tracking-malware-import-hashing
 
 ImportHash.ps1 notes:
+
 The ordinal lookup function needs testing
 
 This script has yet to be refactored according to this [style guide](https://github.com/mattifestation/PowerShellArsenal/tree/master#script-style-guide)
