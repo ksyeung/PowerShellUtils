@@ -6,7 +6,9 @@ Creates a hash based on imported library names, see https://www.mandiant.com/res
 
 ImportHash.ps1 notes:
 The ordinal lookup function needs testing
+
 This script has yet to be refactored according to this [style guide](https://github.com/mattifestation/PowerShellArsenal/tree/master#script-style-guide)
+
 Thanks to @mattifestation for writing the PowerShell PE parser, Get-PE1.py
 
 Example use:
