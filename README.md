@@ -12,7 +12,7 @@ ImportHash.ps1 notes:
 . .\MemoryTools.ps1
 Import-Module .\PSReflect.psm1
 ~~~
-* Thanks to @mattifestation for writing the PowerShell PE parser, Get-PE1.py, and related tools
+* Thanks to @mattifestation for writing the PowerShell PE parser, Get-PE.ps1, and related tools
 
 Example use:
 ~~~
